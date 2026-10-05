@@ -347,9 +347,12 @@ LAND INTELLIGENCE was developed as a **team project for Smart India Hackathon 20
 
 | Team Member |
 |---|
-| **Ayaan Khan** |
-| **Thameem** |
+| **Ryaan Khan** |
+| **Thameem ansari** |
 | **Faqeeha Fathima** |
+| **rifan** |
+| **mushfiya** |
+| **sirajudheen** |
 
 ### Made for Smart India Hackathon 2026 🚀
 
