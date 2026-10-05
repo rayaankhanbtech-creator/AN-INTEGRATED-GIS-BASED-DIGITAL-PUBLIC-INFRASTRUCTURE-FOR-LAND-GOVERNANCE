@@ -341,6 +341,16 @@ Demonstration datasets may be synthetic and should not be interpreted as officia
 
 ---
 
+## 👥 Team Members
+
+LAND INTELLIGENCE was developed as a **team project for Smart India Hackathon 2026**.
+
+| Team Member |
+|---|
+| **Ayaan Khan** |
+| **Thameem** |
+| **Faqeeha Fathima** |
+
 ### Made for Smart India Hackathon 2026 🚀
 
 **LAND INTELLIGENCE**
